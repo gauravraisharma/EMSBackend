@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechbitApi", "TechbitApi\TechbitApi.csproj", "{21501FDD-AA7E-42AF-A6D1-B0348EE2DD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21501FDD-AA7E-42AF-A6D1-B0348EE2DD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21501FDD-AA7E-42AF-A6D1-B0348EE2DD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21501FDD-AA7E-42AF-A6D1-B0348EE2DD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21501FDD-AA7E-42AF-A6D1-B0348EE2DD87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DA98F0-9EB0-4F66-8F6F-4C9B20B522D5}
+	EndGlobalSection
+EndGlobal
